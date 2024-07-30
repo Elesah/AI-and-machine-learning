@@ -1,1 +1,6 @@
 # AI-and-machine-learning
+
+This is a project where I will include all my experiments in Deep Learning that are using Jupyter Notebook and Google Colab. 
+
+To test the developed model, please check google collab corresponding to every file : 
+1. Model which detects whether there's a shirt or a pair of trousers in a folder containing images with both types of clothing : [Shirt or trousers](https://colab.research.google.com/#fileId=https%3A//storage.googleapis.com/kaggle-colab-exported-notebooks/is-it-a-shirt-or-a-pair-of-trousers-5a7a8a7b-af93-4fbc-9584-70435cfba7a8.ipynb%3FX-Goog-Algorithm%3DGOOG4-RSA-SHA256%26X-Goog-Credential%3Dgcp-kaggle-com%2540kaggle-161607.iam.gserviceaccount.com/20240730/auto/storage/goog4_request%26X-Goog-Date%3D20240730T140026Z%26X-Goog-Expires%3D259200%26X-Goog-SignedHeaders%3Dhost%26X-Goog-Signature%3D6f786229cdd2f987820a3cc8704070e22cf148c7d753a36e99617cca20d8fabf557ef3c71fbbde77b14f9c7ece6b09446dd2358056638bd6f2faaaf3a8c8be6cfaf50fc79ee291fd19fd87690784b993637d3f66730b644437e11163cff78e0b7712e8c0e2ee917e049b356a3ddf1240d92b889458dd707318611cb668efb341f32e9207ffe734955a75c3077b9318d64283ea10acaf22ec795da2e0330c0932acdeec8d9056496013f4fa077e94cb0bd5c5339836437afd2e343a6af9253909c0d3ecbc9d57811b4171e398596277272c4c7ed44c643e2ac33bb172665871ee1991c7eef2c9af72f5486564c7cf73c8f39cfe7828f3fffaae11c409f7e3a039&scrollTo=E94nTn888UK4) 
